@@ -1,0 +1,10 @@
+# 輸出資料夾不必上傳，使用者 Git Pull 之後可自行運行
+dist
+dist/
+
+# 這包套件一定要忽略，檔案極大
+node_modules
+node_modules/
+
+# 如果有安裝自動推上 Git 套件才需要忽略這個被創建出來的資料夾
+.publish
