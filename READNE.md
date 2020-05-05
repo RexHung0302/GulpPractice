@@ -21,9 +21,9 @@
 ## 使用方法
 
 ```
-1. $ git clone 
+1. $ git clone https://github.com/RexHung0302/GulpPractice.git
 
-2. $ cd gluppractice
+2. $ cd GulpPractice
 
 3. $ gulp / gulp default
 
